@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Are You Lucky</string>
+    <string name="roll">Roll</string>
+    <string name="enter_the_no_of_your_choice_1_6">Enter the no. of your choice(1-6)</string>
+</resources>
