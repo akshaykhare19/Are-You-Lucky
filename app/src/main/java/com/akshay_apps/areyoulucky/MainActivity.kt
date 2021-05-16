@@ -24,6 +24,7 @@ class MainActivity : AppCompatActivity() {
         result = findViewById(R.id.result)
         input = findViewById(R.id.input)
 
+
     }
 
     fun diceRoll(view: View) {
